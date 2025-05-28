@@ -14,7 +14,7 @@ Main Area
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
-Live Website:[Trooper Database]()
+Live Website:[Trooper Database](https://trooperdatabase-tseidolon.netlify.app/)
 
 Mockup Made in Figma:[Figma Mockup](https://www.figma.com/design/DmLDTOt30LNPXfDNrb0ZKv/Login?node-id=0-1&t=xvk6YLf5h1J4gCat-1)
 
