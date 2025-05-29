@@ -1,6 +1,6 @@
 # Trooper Database
 
-## A Play on Login Website that shows information about two 3d models of Arachnids - Hopper & Warrior. Made with Express and SQL(PostgreSQL) for the backend and React with Tailiwind for the Frontend
+## A Starship Troopers Login Website that shows information about two 3d models of Arachnids - Hopper & Warrior. Made with Express and SQL(PostgreSQL) for the backend and React with Tailiwind for the Frontend
 
  - Deploying to netlify with the backend folder was giving errors so I used just the frontend folder.
  - The whole project repo can be found here [LoginSystemV1](https://github.com/TSEidolon/loginSystemV1)
